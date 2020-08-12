@@ -8,5 +8,27 @@
 <body>
     <h1>Portada</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea odio itaque quas necessitatibus! Perferendis, officia? Odio consectetur placeat aperiam saepe, est libero animi non, quis porro suscipit corporis facere accusamus.</p>
+    <table>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </table>
 </body>
 </html>
