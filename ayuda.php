@@ -8,7 +8,16 @@
 <body>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore veniam officia amet, laborum eveniet, dolores ea reprehenderit iste molestias nihil laboriosam placeat beatae ratione! Harum quae vero amet possimus minus?</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum nesciunt voluptates culpa velit id praesentium animi repellat blanditiis, maxime a ipsam. Maiores dolorum, iure quas dolore quibusdam tempora possimus delectus?</p>
+<<<<<<< HEAD
 
     <h1>Ayuda</h1>
+=======
+    <table>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+>>>>>>> pruebadellenado
 </body>
 </html>
